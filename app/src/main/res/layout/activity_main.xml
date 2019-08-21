@@ -10,35 +10,35 @@
             android:text="@string/name"
             android:layout_width="282dp"
             android:layout_height="37dp" tools:layout_editor_absoluteY="277dp"
-            tools:layout_editor_absoluteX="72dp" android:id="@+id/name"/>
+            tools:layout_editor_absoluteX="72dp" android:id="@+id/name" android:fontFamily="@font/roboto"/>
     <TextView
             android:text="@string/plate"
             android:layout_width="282dp"
             android:layout_height="37dp" tools:layout_editor_absoluteY="222dp"
-            tools:layout_editor_absoluteX="72dp" android:id="@+id/plate"/>
+            tools:layout_editor_absoluteX="72dp" android:id="@+id/plate" android:fontFamily="@font/roboto"/>
     <TextView
             android:text="@string/brand"
             android:layout_width="282dp"
             android:layout_height="37dp" tools:layout_editor_absoluteY="333dp"
-            tools:layout_editor_absoluteX="72dp" android:id="@+id/brand"/>
+            tools:layout_editor_absoluteX="72dp" android:id="@+id/brand" android:fontFamily="@font/roboto"/>
     <Button
             android:text="@string/slot1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" tools:layout_editor_absoluteY="106dp"
-            tools:layout_editor_absoluteX="41dp" android:id="@+id/slot1"/>
+            tools:layout_editor_absoluteX="41dp" android:id="@+id/slot1" android:fontFamily="@font/roboto"/>
     <Button
             android:text="@string/slot2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" tools:layout_editor_absoluteY="106dp"
-            tools:layout_editor_absoluteX="161dp" android:id="@+id/slot2"/>
+            tools:layout_editor_absoluteX="161dp" android:id="@+id/slot2" android:fontFamily="@font/roboto"/>
     <Button
             android:text="@string/slot3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" tools:layout_editor_absoluteY="106dp"
-            tools:layout_editor_absoluteX="283dp" android:id="@+id/slot3"/>
+            tools:layout_editor_absoluteX="283dp" android:id="@+id/slot3" android:fontFamily="@font/roboto"/>
     <Button
             android:text="@string/updatebtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" tools:layout_editor_absoluteY="439dp"
-            tools:layout_editor_absoluteX="73dp" android:id="@+id/updatebtn"/>
+            tools:layout_editor_absoluteX="73dp" android:id="@+id/updatebtn" android:fontFamily="@font/roboto"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
