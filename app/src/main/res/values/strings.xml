@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Parking</string>
+    <string name="slot1">Empty</string>
+    <string name="slot2">Empty</string>
+    <string name="slot3">Empty</string>
+    <string name="plate">platenumber</string>
+    <string name="name">Name</string>
+    <string name="brand">Brand</string>
+    <string name="updatebtn">Update</string>
+</resources>
